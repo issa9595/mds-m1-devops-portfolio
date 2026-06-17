@@ -14,8 +14,8 @@
   },
   "prisma.pinToPrisma6": false,
   "sonarlint.connectedMode.project": {
-    "connectionId": "MDS M1 DevOps Sonar",
-    "projectKey": "RiusmaX_mds-m1-devops-portfolio_a1236eec-cd51-46c3-8d83-e1ef62eb0646"
+    "connectionId": "MDS SONAR",
+    "projectKey": "issa9595_mds-m1-devops-portfolio_08bf0561-e482-46ee-a5e0-3c87db24ea23"
   },
   "WillLuke.nextjs.hasPrompted": true
 }
